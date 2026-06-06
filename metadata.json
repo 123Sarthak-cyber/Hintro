@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Intelligence Service",
+  "description": "An AI-powered service for capturing, analyzing, and tracking action items and insights from meeting transcripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
